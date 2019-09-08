@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './toolPanel.less';
-import Pen from '../shared/panels/Pen';
+import Pen from '../other/panels/Pen';
 
 
 const ToolPanel = ({ activeTool, penOptions, setPenOptions }) => (

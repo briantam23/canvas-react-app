@@ -1,7 +1,7 @@
 import React from 'react';
 import style from './navBar.less';
-import PenIcon from '../shared/icons/PenIcon';
-import EraserIcon from '../shared/icons/EraserIcon'
+import PenIcon from '../other/icons/PenIcon';
+import EraserIcon from '../other/icons/EraserIcon'
 
 
 const NavBar = ({ activeTool, setActiveTool }) => (

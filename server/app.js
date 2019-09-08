@@ -13,7 +13,6 @@ app.get('/', (req, res) => res.sendFile(path.join(__dirname, '../public/index.ht
 
 // Error catching endware
 app.use((err, req, res, next) => {
-    // code to clean up DB error messages //
 
     // just in case
     if (!err.stack || !err.message) next(err);

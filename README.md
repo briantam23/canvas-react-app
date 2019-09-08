@@ -1,5 +1,9 @@
 # 🎨 Canvas React App
 
+## Live Demo
+
+Currently deployed to [Heroku](https://btam-aqi-twilio-alert-app.herokuapp.com/)!
+
 ### Installation
 
 * `npm install` ( or `yarn install` )
